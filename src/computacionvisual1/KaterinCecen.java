@@ -18,6 +18,7 @@ public class KaterinCecen {
         // TODO code application logic here
         System.out.println("");
         System.out.println("BO");
+        System.out.println("");
     }
     
 }
